@@ -66,11 +66,11 @@ cin >> string_2;
 
 if (isIsomorphic(string_1, string_2))
 
-cout << "Yes";
+cout << "yes";
 
 else
 
-cout << "No";
+cout << "no";
 
 return 0;
 }
