@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <conio.h>
 #include <string.h>
-void main(){
+int main(){
      char str[20],tmp;
      int i,j;
      
@@ -14,5 +13,5 @@ void main(){
      str[i+1] = tmp;
      }
      printf("\n%s",str);
-     getch();
+     return 0;
 }
