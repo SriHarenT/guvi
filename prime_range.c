@@ -11,6 +11,7 @@ int main()
             if(low % i == 0)
             {
                 flag = 1;
+                iu
                 break;
             }
         }
